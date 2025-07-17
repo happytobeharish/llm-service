@@ -22,3 +22,10 @@ This project is a minimal Node.js service that lets users interact with multiple
 ```bash
 git clone https://github.com/yourusername/llm-service.git
 cd llm-service
+
+Install dependencies
+npm install
+
+Run the Server
+npm start
+
