@@ -1,0 +1,9 @@
+[
+  {
+    "model": "gptj",
+    "prompt": "this is prompt",
+    "response": "GPT-J says: this is prompt",
+    "tokens": 3,
+    "latency_ms": 0
+  }
+]
