@@ -1,6 +1,6 @@
 # 🧠 LLM Multi-Model Service (Node.js)
 
-This project is a minimal Node.js service that lets users interact with multiple open-source language models (e.g., GPT-J, Mistral) via a REST API. It includes model routing, latency and token count logging, and a clean architecture for extensibility.
+This project is a minimal Node.js service that lets users interact with multiple open-source language models (e.g., GPT-J, Mistral) via a REST API. It includes model routing, latency and token count logging, and a clean architecture for extensibility. 
 
 ---
 
