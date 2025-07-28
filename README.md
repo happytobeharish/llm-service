@@ -4,8 +4,8 @@ This project is a minimal Node.js service that lets users interact with multiple
 
 ---
 
-## 📦 Features  
-  
+## 📦 Features
+
 - 🔁 Multi-model routing (`?model=gptj` or `?model=mistral`)
 - 📨 Accepts prompts via HTTP POST
 - ⏱️ Logs round-trip latency and estimated token count
