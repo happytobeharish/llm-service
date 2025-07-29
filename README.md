@@ -12,7 +12,7 @@ This project is a minimal Node.js service that lets users interact with multiple
 - 💾 Logs saved in `logs/prompt_logs.json`
 - 🧪 Simple integration tests
 - 🛠️ Clean modular structure with separate model handlers
-
+ 
 ---
  
 ## 🚀 Getting Started
