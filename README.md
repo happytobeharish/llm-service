@@ -7,7 +7,7 @@ This project is a minimal Node.js service that lets users interact with multiple
 
 - 🔁 Multi-model routing (`?model=gptj` or `?model=mistral`)
 - 📨 Accepts prompts via HTTP POST
-- ⏱️ Logs round-trip latency and estimated token count 
+- ⏱️ Logs round-trip latency and estimated token count
 - 💾 Logs saved in `logs/prompt_logs.json`
 - 🧪 Simple integration tests
 - 🛠️ Clean modular structure with separate model handlers
